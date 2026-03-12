@@ -37,7 +37,8 @@ The results are visualized in an interactive Power BI dashboard.
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_preview/Bike-sales-Analysis.png)
+<img width="1306" height="738" alt="Bike-Sales-Analysis" src="https://github.com/user-attachments/assets/9fe5f88b-2339-4b25-9269-eed595cbe251" />
+
 
 ---
 
